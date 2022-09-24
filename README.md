@@ -1,5 +1,7 @@
 # Kwizep Project
 
+### Main Contributors: [Eugene Lam](https://github.com/lamew128), [Di Wu](https://github.com/beijingdi), [Heron Feijao](https://github.com/heronfeijao)
+
 Kwizep is a quiz app that users can create/take quizzes and share to others.
 
 Ajax, jQuery, ejs and CSS3 are used.
